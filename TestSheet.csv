@@ -1,0 +1,7 @@
+﻿name,ring,quadrant,isNew,description
+ServiceNow ITAM,Trial,Administration Services,FALSE,"""ServiceNow IT Asset Management - Automate the end-to-end lifecycle for software licenses, hardware assets, and cloud - on one platform.""
+
+* Note: This solution is still on the roadmap for completion"
+C#,Hold,Applications & Data Services,FALSE,"""C# (pronounced """"C sharp"""") is a programming language developed by Microsoft. It is widely used for building Windows applications, web applications, and other software solutions on the .NET framework."""
+ Azure Active Directory SSO,Assess,Oklahoma Cyber Command,FALSE,Azure Active Directory Single Sign-On (SSO) is a feature that allows users to sign in once with their Azure AD credentials and access multiple cloud applications without having to sign in again.
+Microsoft Azure Services,Adopt,IT Operations,FALSE,"""Microsoft Azure Services is a collection of cloud computing services provided by Microsoft. It includes infrastructure, platform, storage, database, AI, and developer services for building and deploying applications."""
